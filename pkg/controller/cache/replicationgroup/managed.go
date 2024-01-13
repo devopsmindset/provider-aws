@@ -19,7 +19,6 @@ package replicationgroup
 import (
 	"context"
 	"reflect"
-	"sort"
 	"strconv"
 	"strings"
 
